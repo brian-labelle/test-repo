@@ -1,1 +1,1 @@
-**🕒 ConnectWise Code Review Ticket:** [Insert ConectWise Ticket #]
+**🕒 ConnectWise Code Review Ticket:** [Insert ConnectWise Ticket #]
